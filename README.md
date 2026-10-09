@@ -1,4 +1,5 @@
 # AI Coding Agent
+<img width="1920" height="1069" alt="image" src="https://github.com/user-attachments/assets/35465f1b-e438-4b26-bdaa-ed535351130f" />
 
 A local Textual coding assistant built with LangChain Deep Agents and OpenRouter.
 The manager can delegate implementation, read-only review, and approved checks
