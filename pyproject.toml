@@ -1,0 +1,14 @@
+[project]
+name = "ai-coding-agent"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "deepagents>=0.6.8",
+    "langchain>=1.4.2",
+    "langchain-openrouter>=0.2.9",
+    "langchain-tavily>=0.2.18",
+    "python-dotenv>=1.2.3",
+    "textual>=8.2.8",
+]
